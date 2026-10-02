@@ -1,4 +1,7 @@
 # madrisapi.github.io
 
 TBC
-[test](./test.txt)
+
+[test.txt](./test.txt)
+
+[test.zip](./test.zip)
