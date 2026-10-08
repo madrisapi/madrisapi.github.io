@@ -1,11 +1,17 @@
+---
+{
+  "layout": "default",
+  "title": "Applications"
+}
+---
+
 # Applications
 
 ## app-orchestrator
 
-Version **0.1.0** — publiée le 3 octobre 2026.
-
-- [Télécharger l’archive app-orchestrator-main.tar.gz](https://github.com/madrisapi/ezfacade/releases/download/0.1.0/app-orchestrator-main.tar.gz)
-- [Voir la release sur GitHub](https://github.com/madrisapi/ezfacade/releases/tag/0.1.0)
+<!-- app-orchestrator-releases:start -->
+<p><a href="{{ '/app-orchestrator/releases/' | relative_url }}">Versions et t&eacute;l&eacute;chargements App Orchestrator</a></p>
+<!-- app-orchestrator-releases:end -->
 
 ## web-server
 
